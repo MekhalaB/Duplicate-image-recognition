@@ -18,10 +18,10 @@ def get_image(image_path):
 
 
 #main()
-im1=r"\sherbrooke_frames\sherbrooke_frames\00001033.jpg"
-#im2=r"\atrium_frames\atrium_frames\00003779.jpg"
-#im2=r"\atrium_frames\atrium_frames\00000139.jpg"
-im2=r"\sherbrooke_frames\sherbrooke_frames\1.jpg"
+im1=r"Resources\pic4.jpg"
+#im2=r"Resources\pic3.jpg"
+#im2=r"Resources\pic2.jpg"
+im2=r"Resources\pic1.jpg"
 p1=get_image(im1) #3D array
 p2=get_image(im2) #3D array
 
